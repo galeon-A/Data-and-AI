@@ -1,0 +1,6 @@
+transaction_id,customer_name,region,revenue
+1,Alice,North,1000
+2,Bob,West,2500
+3,Charlie,South,1800
+4,David,East,3000
+5,Eva,North,2100

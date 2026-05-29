@@ -1,0 +1,21 @@
+cummins_data_governance_portal/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── setup_metadata.py
+├── generate_profiles.py
+├── great_expectations_validation.py
+├── project_structure.txt
+│
+├── data/
+│   └── sales_data.csv
+│
+├── metadata/
+│   └── metadata.db
+│
+├── profiles/
+│   └── sales_data_profile.csv
+│
+└── gx_reports/
+    └── sales_data.html

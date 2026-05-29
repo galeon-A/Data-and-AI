@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+great_expectations
+sqlalchemy
+sqlite-utils
+plotly
